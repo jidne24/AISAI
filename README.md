@@ -8,7 +8,7 @@
 ---
 
 ## Quick demo
-![demo](assets/demo.gif)
+![demo](assets/AISAI.gif)
 
 ---
 
