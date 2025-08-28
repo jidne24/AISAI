@@ -1,9 +1,13 @@
+<div align=center>
+
 # Automated IP-Secured Attendance Intelligence - AISAI
 
-[![Project Status](https://img.shields.io/badge/status-proof%20of%20concept-blue)](https://github.com/yourusername/AISAI)
+[![Project Status](https://img.shields.io/badge/status-proof%20of%20concept-blue)](https://github.com/jidne24/AISAI)
 [![Tech: Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 [![Framework: Flask](https://img.shields.io/badge/Flask-▲-black)](https://flask.palletsprojects.com/)
 [![DB: SQLite3](https://img.shields.io/badge/SQLite3-lightgrey)](https://www.sqlite.org/)
+
+</div>
 
 ---
 
@@ -68,19 +72,6 @@ Automated IP-Secured Attendance Intelligence (AISAI) prevents proxy attendance a
 
 ---
 
-## What you can view in this repo
-- Visual demo (`assets/demo.gif`)  
-- Architectural diagrams and screenshots (`assets/`)  
-- Slides and project documentation (`SLIDES.md`, `ABOUT.md`)  
-- Project goals, design decisions, security model and exportable reports examples
-
----
-
-## Slide highlights / presentation
-See `SLIDES.md` for the full slide deck content.
-
----
-
 ## For recruiters & evaluators
 If you'd like to evaluate the codebase, a compiled demo, or collaborate:
 - Email: **jidnehuda24@gmail.com**  
@@ -89,5 +80,10 @@ Source review is available under NDA — please reference "AISAI source access" 
 
 ---
 
-## Credits
-Project created by **Gidne Huda** — third year student, passionate about applied networking & educational solutions.
+<div align="center">
+
+### Star this repository if you find it useful!
+
+**Developed with ❤️ by [Gidne Huda](https://github.com/jidne24)**
+
+</div>
