@@ -1,4 +1,4 @@
-# AISAI — Automated IP-Secured Attendance Intelligence
+# Automated IP-Secured Attendance Intelligence - AISAI
 
 [![Project Status](https://img.shields.io/badge/status-proof%20of%20concept-blue)](https://github.com/yourusername/AISAI)
 [![Tech: Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
@@ -7,7 +7,6 @@
 
 ---
 
-## Quick demo
 ![demo](assets/AISAI.gif)
 
 ---
@@ -49,8 +48,6 @@ Automated IP-Secured Attendance Intelligence (AISAI) prevents proxy attendance a
 - **Server (Python + Flask):** session control, IP validation, DB ops  
 - **Client (Flask templates):** student submission interface  
 - **Admin dashboard:** start sessions, monitor, and export
-
-_Add architecture diagram: `assets/arch-diagram.png`_
 
 ---
 
