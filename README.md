@@ -12,22 +12,17 @@
 
 ---
 
-## One-line summary
-IP-based attendance verification for controlled Wi-Fi networks — fast, reliable, automated.
-
----
-
 ## Project overview
 Automated IP-Secured Attendance Intelligence (AISAI) prevents proxy attendance and removes manual record-keeping overhead by validating one submission per device (IP) inside a controlled Wi-Fi network. Teachers create short, configurable attendance sessions; students submit a registration number from their devices; AISAI validates by IP, aggregates results, computes attendance, and stores semester records securely.
 
 ---
 
 ## Key goals
-- 🔒 Eliminate proxy attendance via IP validation (one submission per device)  
-- ⚡ Automated marking and calculations for immediate results  
-- 📊 Intuitive dashboards for teachers and students  
-- 💾 Secure semester-long storage (SQLite3)  
-- 📈 Exportable, accreditation-ready reports
+-  Eliminate proxy attendance via IP validation (one submission per device)  
+-  Automated marking and calculations for immediate results  
+-  Intuitive dashboards for teachers and students  
+-  Secure semester-long storage (SQLite3)  
+-  Exportable, accreditation-ready reports
 
 ---
 
@@ -72,7 +67,7 @@ _Add architecture diagram: `assets/arch-diagram.png`_
 - IP-based validation works **only** within a controlled campus Wi-Fi environment.  
 - Student identifiers are stored securely in a local SQLite database for the semester.  
 - For privacy and startup protection, the source code is **not public** in this repository.  
-- **Source code is available on request** under NDA for collaborators or evaluators (see `RELEASES.md`).
+- **Source code is available on request** under NDA for collaborators or evaluators.
 
 ---
 
@@ -85,7 +80,7 @@ _Add architecture diagram: `assets/arch-diagram.png`_
 ---
 
 ## Slide highlights / presentation
-See `SLIDES.md` for the full slide deck content. (A PDF copy is available in Releases.)
+See `SLIDES.md` for the full slide deck content.
 
 ---
 
@@ -94,11 +89,6 @@ If you'd like to evaluate the codebase, a compiled demo, or collaborate:
 - Email: **jidnehuda24@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/jidne24**  
 Source review is available under NDA — please reference "AISAI source access" in your message.
-
----
-
-## License
-This repo contains documentation, diagrams and demo media. The project design is licensed under the MIT License — see `LICENSE` for details.
 
 ---
 
