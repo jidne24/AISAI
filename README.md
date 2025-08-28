@@ -82,8 +82,6 @@ Source review is available under NDA — please reference "AISAI source access" 
 
 <div align="center">
 
-### Star this repository if you find it useful!
-
 **Developed with ❤️ by [Gidne Huda](https://github.com/jidne24)**
 
 </div>
